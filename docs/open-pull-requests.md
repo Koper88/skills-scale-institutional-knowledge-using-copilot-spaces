@@ -2,17 +2,7 @@
 
 This document lists all currently open pull requests in the `Koper88/skills-scale-institutional-knowledge-using-copilot-spaces` repository.
 
----
-
-## Pull Request #4: [WIP] List open pull requests in Koper88 repository
-
-**Author:** Copilot
-
-**Link:** https://github.com/Koper88/skills-scale-institutional-knowledge-using-copilot-spaces/pull/4
-
-**Description:**
-
-This is a work-in-progress pull request created to list all currently open pull requests in the repository. The PR includes their titles, short descriptions, authors, and links as requested in the original prompt.
+> **Note:** For the most up-to-date list of open pull requests, please visit the [repository's pull requests page](https://github.com/Koper88/skills-scale-institutional-knowledge-using-copilot-spaces/pulls).
 
 ---
 
